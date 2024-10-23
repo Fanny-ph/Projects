@@ -1,6 +1,6 @@
 # Analyse de Données avec Power BI
 
-Les projets Freeglisse_groupe et PowerBI_Demoday utilisent Power BI pour visualiser et analyser des données. L'objectif est de fournir des insights et des rapports interactifs basés sur les données.
+Les projets Freeglisse_groupe utilise Power BI pour visualiser et analyser des données. L'objectif est de fournir des insights et des rapports interactifs basés sur les données.
 
 ## Table des Matières
 
@@ -21,17 +21,18 @@ Les projets Freeglisse_groupe et PowerBI_Demoday utilisent Power BI pour visuali
 ## Technologies Utilisées
 
 - Power BI Desktop
-- Sources de données (CSV, webscrapping)
+- Sources de données (site internet)
+- Python (webscrapping, beautiful soup)
 
 ## Installation
 
 1. Assurez-vous d'avoir [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installé sur votre machine.
-2. Téléchargez le fichier `Freeglisse_groupe.pbix`  et `PowerBI_Demoday.pbix` depuis le dépôt.
+2. Téléchargez le fichier `Freeglisse_groupe.pbix` depuis le dépôt.
 
 ## Utilisation
 
 1. Ouvrez Power BI Desktop.
-2. Cliquez sur "Ouvrir" et sélectionnez le fichier `Freeglisse_groupe.pbix`  et `PowerBI_Demoday.pbix`.
+2. Cliquez sur "Ouvrir" et sélectionnez le fichier `Freeglisse_groupe.pbix`.
 3. Explorez les visualisations et interagissez avec les rapports.
 
 ## Contributions
@@ -46,5 +47,5 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer :
 
 ## License
 
-Ces projets sont sous licence privée. Veuillez ne pas redistribuer sans autorisation.
+Ce projet est sous licence MIT.
 
